@@ -1,0 +1,6 @@
+public class SemTest {
+   public int p1, p2;
+   public static void testFieldVarDecl(int p) {
+     int w,x,y;
+   }
+}
